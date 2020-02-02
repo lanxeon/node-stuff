@@ -4,4 +4,4 @@ module.exports={
     database: 'monstersdb',
     password: 'password',
     port: 5432
-}
+};
